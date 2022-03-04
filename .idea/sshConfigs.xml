@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ftp.h010421910.nichost.ru" id="7a340714-8b4d-4cda-a148-72a5c0dce3b2" port="21" nameFormat="DESCRIPTIVE" username="h010421910_enum" />
+    </configs>
+  </component>
+</project>
